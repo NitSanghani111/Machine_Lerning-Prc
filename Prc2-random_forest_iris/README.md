@@ -34,6 +34,8 @@ Random Forest is an ensemble learning method that creates multiple decision tree
 5. Evaluate using accuracy and confusion matrix.
 
 ---
+## 📷 Model Output Screenshot
 
-## ✅ Output Example
+Here is the output of the model:
 
+![Confusion Matrix Output](output.png)
