@@ -33,3 +33,4 @@ This practical demonstrates how to implement a Support Vector Machine (SVM) clas
 
 ## 📈 Sample Output
 
+![SVM Output Screenshot](image.png)
